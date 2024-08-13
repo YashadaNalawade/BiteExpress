@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2024-08-13 at 11 07 44 PM" src="https://github.com/user-attachments/assets/b0d1aeed-2f36-4de0-a940-08b3b89873ba"># BiteExpress
+# BiteExpress
 
 # Website - (https://biteexpress.netlify.app/)
 
